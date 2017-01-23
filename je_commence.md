@@ -21,3 +21,6 @@ Petit jeu pour apprendre
 ## Sous-titre
 
 *à vous de jouer*
+# modifications du 23 01 2017 _par virginie_
+* titre
+* ligne 1
