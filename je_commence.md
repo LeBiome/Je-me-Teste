@@ -1,8 +1,8 @@
-# Introdcution 
+# Introduction 
 
 Petit jeu pour apprendre
 
-- Création d'un dépôt nommé je me teste. https://github.com/LeBiome/Je-me-Teste par un praticien de github
+- Création d'un repository nommé je me teste. https://github.com/LeBiome/Je-me-Teste par un praticien de github
 
 - Gérald, en formation, doit y ouvrir un fichier markdown (.md) nommé "je commence" dans ce dépot. Puis il notera par édition "commit" dans ce ficihier ce qu'il à fait et comment il l'a fait pour créer ce fichier
 
