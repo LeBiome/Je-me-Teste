@@ -24,3 +24,4 @@ Petit jeu pour apprendre
 # modifications du 23 01 2017 _par virginie_
 * titre
 * ligne 1
+* test nouvelle manip'
